@@ -1,6 +1,6 @@
 % 파일 경로 목록
-files = {'C:\mat\g.csv', 'C:\mat\b.csv', 'C:\mat\c.csv', ...
-        'C:\mat\a.csv', 'C:\mat\d.csv'};
+files = {'C:\Users\USER\actuator-fitting\data\1.csv', 'C:\Users\USER\actuator-fitting\data\2.csv', 'C:\Users\USER\actuator-fitting\data\3.csv', ...
+        'C:\Users\USER\actuator-fitting\data\4.csv', 'C:\Users\USER\actuator-fitting\data\5.csv'};
 
 % 초기 추정값과 최적화 옵션 설정
 initial_c = 0.1;  % 감쇠 계수 c의 초기 추정값
